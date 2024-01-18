@@ -1,0 +1,4 @@
+﻿  T0Bs1.cpp
+C:\Users\i9\Documents\GitHub\KOLOKWIUM-PPK-2\kolSekcja6\kol2\kol2\T0Bs1.cpp(77,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\i9\Documents\GitHub\KOLOKWIUM-PPK-2\kolSekcja6\kol2\kol2\T0Bs1.cpp(83,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\i9\Documents\GitHub\KOLOKWIUM-PPK-2\kolSekcja6\kol2\kol2\T0Bs1.cpp(87): error C4703: potentially uninitialized local pointer variable 'organizator' used
